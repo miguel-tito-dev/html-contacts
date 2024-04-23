@@ -1,0 +1,11 @@
+html {
+    min-height: 100%;
+    background-image: url(https://i.pinimg.com/736x/e2/d6/1c/e2d61c6a330661127cc640bd592c803e.jpg);
+    background-size: cover;
+}
+.icon-link img{
+    width: 200px;
+    display: block;
+    margin: 50px auto 50px;
+    max-width: 100%;
+}
